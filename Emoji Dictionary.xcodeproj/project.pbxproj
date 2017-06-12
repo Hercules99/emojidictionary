@@ -13,6 +13,7 @@
 		A71ED6DD1EDB5FCB005F6235 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A71ED6DC1EDB5FCB005F6235 /* Assets.xcassets */; };
 		A71ED6E01EDB5FCB005F6235 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A71ED6DE1EDB5FCB005F6235 /* LaunchScreen.storyboard */; };
 		A71ED6E81EE303DD005F6235 /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71ED6E71EE303DD005F6235 /* DefinitionViewController.swift */; };
+		A71ED6EA1EE41B78005F6235 /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71ED6E91EE41B78005F6235 /* Emoji.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A71ED6DF1EDB5FCB005F6235 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A71ED6E11EDB5FCB005F6235 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A71ED6E71EE303DD005F6235 /* DefinitionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
+		A71ED6E91EE41B78005F6235 /* Emoji.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A71ED6D51EDB5FCB005F6235 /* AppDelegate.swift */,
 				A71ED6D71EDB5FCB005F6235 /* ViewController.swift */,
 				A71ED6E71EE303DD005F6235 /* DefinitionViewController.swift */,
+				A71ED6E91EE41B78005F6235 /* Emoji.swift */,
 				A71ED6D91EDB5FCB005F6235 /* Main.storyboard */,
 				A71ED6DC1EDB5FCB005F6235 /* Assets.xcassets */,
 				A71ED6DE1EDB5FCB005F6235 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			files = (
 				A71ED6D81EDB5FCB005F6235 /* ViewController.swift in Sources */,
 				A71ED6E81EE303DD005F6235 /* DefinitionViewController.swift in Sources */,
+				A71ED6EA1EE41B78005F6235 /* Emoji.swift in Sources */,
 				A71ED6D61EDB5FCB005F6235 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
